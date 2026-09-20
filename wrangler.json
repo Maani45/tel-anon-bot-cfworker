@@ -1,0 +1,11 @@
+{
+  "name": "tel-anon-bot-cfworker",
+  "main": "worker.js",
+  "compatibility_date": "2026-06-20",
+  "kv_namespaces": [
+    {
+      "binding": "ANON_STORE",
+      "id": 111bf5ee2f4c450283291718a2ab060f
+    }
+  ]
+}
